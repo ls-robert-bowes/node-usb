@@ -102,6 +102,7 @@
           'sources': [
             'libusb/libusb/os/darwin_usb.c',
             'libusb/libusb/os/darwin_usb.h',
+            'libusb/Xcode/config.h',
           ],
           'defines': [
             'OS_DARWIN=1',
