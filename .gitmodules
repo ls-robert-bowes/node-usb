@@ -1,3 +1,4 @@
 [submodule "libusb"]
 	path = libusb
 	url = https://github.com/libusb/libusb.git
+	branch = tags/v1.0.24
